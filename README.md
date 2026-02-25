@@ -5,26 +5,12 @@
 Transformers    Vision Transformers (ViTs)  Image Classification    Vision-Language Models   (VLMs)   
 Multi-Modal Models      CLIP        Classification Models 
 
-**Abstract:** Deep learning has often been 
-characterized as a type of intelligence 
-developed to mirror the human brain with 
-systems of neurons which are essential in 
-the human thinking process. Where many 
-modern deep learning models have 
-successfully mimicked one form of input 
-such as text, auditory, or vision, a newer 
-sub-field of artificial intelligence, multi
-modal learning, seeks to replicate the 
-ability of the human brain by analyzing and 
-processing multiple forms of input to gain 
-understanding and draw insights [2]. 
-Moreover, multi-modal models typically 
-may analyze an image, a textual description 
-or prompt, or an auditory sound bite to 
-perform a task [1].  This report provides a 
-brief introduction of the multi-modal model 
-learning process followed by project 
-exercise.  
+
+
+  
+<img width="400" height="300" alt="image" src="https://github.com/deep-model/Computer_Vision_with_Canny-Edge_Detection/blob/main/street_picture_2.jpg" />
+
+
 
 ## Introduction 
 Multi-modal models can be described as machine learning models that are capable of processing 
