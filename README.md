@@ -8,7 +8,7 @@ Multi-Modal Models      CLIP        Classification Models
 
 
   
-<img width="400" height="300" alt="image" src="https://github.com/deep-model/Multimodal_CLIP_Modeling/blob/main/multi_modal1.jpg" />
+<img width="800" height="600" alt="image" src="https://github.com/deep-model/Multimodal_CLIP_Modeling/blob/main/multi_modal1.jpg" />
 
 
 
