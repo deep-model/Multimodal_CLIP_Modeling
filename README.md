@@ -1,3 +1,5 @@
+[View Report PDF]!(https://github.com/deep-model/Multimodal_CLIP_Modeling/blob/main/Multimodal_Project.pdf)
+
 # Multi-modal Learning Project with Vison Based Models Using CLIP for Connecting Text and Images  
 **Matthew Harper**
   
