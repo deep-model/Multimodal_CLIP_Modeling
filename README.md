@@ -2,7 +2,7 @@
 
 # Multi-modal Learning Project with Vison Based Models Using CLIP for Connecting Text and Images  
 **Matthew Harper**
-  
+## [Veiw Project List](https://github.com/deep-model?tab=repositories)
 **Topic Areas:** 
 Transformers    Vision Transformers (ViTs)  Image Classification    Vision-Language Models   (VLMs)   
 Multi-Modal Models      CLIP        Classification Models 
